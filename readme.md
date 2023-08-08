@@ -1,4 +1,4 @@
-# YourAppName - Django SQL Query App
+# SQL_integration - Django SQL Query App
 
 Welcome to YourAppName, a Django application that connects to a PostgreSQL server, accepts SQL statements as input, and displays query results as Pandas DataFrames in HTML.
 
